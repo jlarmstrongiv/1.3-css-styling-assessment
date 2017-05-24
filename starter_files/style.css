@@ -44,7 +44,6 @@ body > div {
 }
 #site_header nav a {
   font-weight: bold;
-  width: auto;
   margin-top: 20px;
   padding: 10px 30px;
   text-decoration: none;
